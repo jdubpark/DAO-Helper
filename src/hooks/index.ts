@@ -1,0 +1,1 @@
+export { default as useSnapshotProposalData } from './useSnapshotProposalData'
